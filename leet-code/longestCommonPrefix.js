@@ -1,6 +1,7 @@
 /**
  * Dylan Docherty
  * Find the question here https://leetcode.com/problems/longest-common-prefix/
+ * Solved
  */
 
 /**

@@ -1,6 +1,7 @@
 /**
  * Dylan Docherty
  * Find the question here https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+ * Solved
  */
 
 class TreenNode {

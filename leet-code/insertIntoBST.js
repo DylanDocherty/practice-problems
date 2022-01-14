@@ -1,6 +1,7 @@
 /**
  * Dylan Docherty
  * Find the question here https://leetcode.com/problems/insert-into-a-binary-search-tree/
+ * Solved
  */
 
 class TreeNode {

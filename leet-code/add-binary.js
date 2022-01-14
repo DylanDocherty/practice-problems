@@ -2,6 +2,7 @@
  * Dylan Docherty
  * Find the question here https://leetcode.com/problems/add-binary/
  * important distinction on line 17 https://dev.to/sanchithasr/7-ways-to-convert-a-string-to-number-in-javascript-4l 
+ * Solved
  */
 
 /**
